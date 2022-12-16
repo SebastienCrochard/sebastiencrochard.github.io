@@ -297,3 +297,15 @@ body {
 #competences .container .classement4 { background-position: 0 -28px; }
 #competences .container .classement5 { background-position: 0 0px; }
 
+/***************************************
+*  Passions
+***************************************/
+#Passions .libelle {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between; 
+}
+
+#Passions .passion {
+    font-size: 1.3em;
+}
