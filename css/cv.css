@@ -300,12 +300,12 @@ body {
 /***************************************
 *  Passions
 ***************************************/
-#Passions .libelle {
+#Passions .container {
     display: flex; 
     flex-direction: row; 
     justify-content: space-between; 
 }
 
-#Passions .passion {
+#Passions .libelle {
     font-size: 1.3em;
 }
