@@ -38,7 +38,7 @@ body {
 }
 
 #cv-intro h1 span { 
-    color: rgb(226,0,26); 
+    color: #fd7e14; 
 }
 
 #cv-intro::after { 
@@ -58,7 +58,7 @@ body {
 }
 
 .rubrique h2 { 
-    color: rgb(226,0,26); 
+    color: #fd7e14; 
 }
 
 .rubrique h2::before{ 
